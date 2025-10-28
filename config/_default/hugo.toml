@@ -1,9 +1,9 @@
-baseURL = "https://duncanmaina.github.io"
+baseURL = "https://bazengirungu.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Big Dawgs gotta eat"
+title = "Duncan Maina"
 theme = "blowfish"
-disableLanguages = ["it", "ja", "zh-cn"] # Keep only English
+
 
 enableRobotsTXT = true
 [pagination]

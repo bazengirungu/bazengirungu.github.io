@@ -9,7 +9,39 @@
     <managingEditor>duncancybershujaa@gmail.com (Duncan Maina)</managingEditor>
     <webMaster>duncancybershujaa@gmail.com (Duncan Maina)</webMaster>
     <copyright>© 2025 Duncan Maina</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <author>duncancybershujaa@gmail.com (Duncan Maina)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Hey, I’m Duncan 👋,
+    &lt;div id=&#34;hey-im-duncan-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hey-im-duncan-&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;I’m a &lt;strong&gt;Cybersecurity Trainer and Blue Team Practitioner&lt;/strong&gt; passionate about building resilience through hands-on defense, clear thinking, and curiosity-driven learning.&lt;br&gt;
+I train analysts to think like attackers — and defenders who know how to fight back smartly.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;🎯 What I Do
+    &lt;div id=&#34;-what-i-do&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#-what-i-do&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;By day, I teach &lt;strong&gt;Digital Forensics, SOC Operations, Incident Response, and Threat Hunting&lt;/strong&gt; at Cybershujaa and partner institutions like &lt;strong&gt;ACIC&lt;/strong&gt;, the &lt;strong&gt;Kenya School of Government (KSG)&lt;/strong&gt;, and the &lt;strong&gt;University of Nairobi&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>

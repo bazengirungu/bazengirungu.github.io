@@ -15,9 +15,12 @@ title = "Big Dawgs Eat"
   name = "Duncan Maina"
   email = "duncancybershujaa@gmail.com"
   image = "img/blowfish_logo.png"
-  headline = "Blue teamer with hints of red team."
-  bio = "A powerful, lightweight theme for Hugo."
+  headline = "Trainer | Digital Forensics | SOC Operations | Threat Intelligence"
+  bio = "Cybersecurity trainer and blue-team practitioner focused on digital forensics, threat hunting and SOC Operations."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { x-twitter = "https://twitter.com/bazengirungu" },
+    { github = "https://github.com/bazengirungu" },
+    { email = "mailto:duncanirungu@proton.me" },
+    { discord = "https://discord.gg/2cRdBs8" },
+    { linkedin = "https://linkedin.com/in/duncanirungu" }
   ]
