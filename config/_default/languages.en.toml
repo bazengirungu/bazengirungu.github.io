@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Big Dawgs Eat"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/blowfish_logo_transparent.png"
+  description = "A powerful, lightweight theme for Hugo."
+
+[params.author]
+  name = "Duncan Maina"
+  email = "duncancybershujaa@gmail.com"
+  image = "img/blowfish_logo.png"
+  headline = "Blue teamer with hints of red team."
+  bio = "A powerful, lightweight theme for Hugo."
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
