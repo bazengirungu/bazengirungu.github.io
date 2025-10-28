@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duncanmaina.github.io/sitemap.xml
