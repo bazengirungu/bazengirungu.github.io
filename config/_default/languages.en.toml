@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Duncan Irungu | Personal Portfolio"
+title = "Duncan Irungu | Cybersecurity"
 
 [params]
   displayName = "EN"
@@ -17,12 +17,12 @@ title = "Duncan Irungu | Personal Portfolio"
  [params.author]
    name = "Duncan Irungu"
    email = "duncanirungu@proton.me"
-   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-   headline = "Cybersecurity Analyst & Report Writer"
+   image = "img/IMG_1431.jpg"
+   imageQuality = 96
+   headline = "Cybersecurity Trainer | SOC Analyst | Digital Forensics Practitioner"
    bio = "A boy from Kigogoini"
    links = [
-     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:duncanirungu@proton.me" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
      { apple = "https://www.apple.com" },
@@ -70,7 +70,7 @@ title = "Duncan Irungu | Personal Portfolio"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+     { youtube = "https://www.youtube.com/@DuncanYamiSenshi" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]
