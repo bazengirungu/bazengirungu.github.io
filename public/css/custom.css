@@ -1,0 +1,37 @@
+/* Custom Styling for the Category List (Your "Skills" Page) */
+
+/* 1. Target the main list container wrapper */
+.taxonomy-list-container {
+    display: flex !important;
+    justify-content: center !important; /* Forces the entire list block to be centered */
+    width: 100%;
+}
+
+/* 2. Target the list itself to handle wrapping */
+.taxonomy-list {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    /* Optional: Max width to keep badges clustered */
+    max-width: 900px;
+}
+
+/* 3. Style the individual badges (keep this for the nice button look) */
+.taxonomy-list li {
+    background-color: #28303a !important;
+    color: #00ff7f !important;
+    padding: 12px 25px !important;
+    margin: 10px !important; /* Adds crucial spacing */
+    border-radius: 8px !important;
+    font-size: 1.1em !important;
+    font-weight: 600 !important;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2) !important;
+}
+
+.taxonomy-list li:hover {
+    background-color: #00ff7f !important;
+    color: #1a1a1a !important;
+}

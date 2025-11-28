@@ -21,16 +21,22 @@
   weight = 20
 
 [[main]]
+  name = "Skills"
+  pageRef = "categories"
+  weight = 30
+
+
+[[main]]
   name = "Posts"
 #  parent = "Parent"
   pageRef = "posts"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Contact"
 #  parent = "Parent"
   pageRef = "contact"
-  weight = 40
+  weight = 50
 
 #[[subnavigation]]
 #  name = "An interesting topic"

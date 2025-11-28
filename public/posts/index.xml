@@ -9,7 +9,17 @@
     <managingEditor>duncanirungu@proton.me (Duncan Irungu)</managingEditor>
     <webMaster>duncanirungu@proton.me (Duncan Irungu)</webMaster>
     <copyright>© 2025 Duncan Irungu</copyright>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Nov 2025 17:50:11 +0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fowsniff</title>
+      <link>http://localhost:1313/posts/fowsniff/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/posts/fowsniff/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

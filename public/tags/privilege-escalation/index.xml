@@ -9,14 +9,14 @@
     <managingEditor>duncanirungu@proton.me (Duncan Irungu)</managingEditor>
     <webMaster>duncanirungu@proton.me (Duncan Irungu)</webMaster>
     <copyright>© 2025 Duncan Irungu</copyright>
-    <lastBuildDate>Sun, 26 Oct 2025 01:55:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/privilege-escalation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Aug 2025 01:09:33 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/privilege-escalation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Conversor: XSLT Injection to Root Exploit Chain</title>
-      <link>http://localhost:1313/posts/conversor/</link>
-      <pubDate>Sun, 26 Oct 2025 01:55:00 -0500</pubDate>
+      <title>Fowsniff</title>
+      <link>http://localhost:1313/posts/fowsniff/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
       <author>duncanirungu@proton.me (Duncan Irungu)</author>
-      <guid>http://localhost:1313/posts/conversor/</guid>
+      <guid>http://localhost:1313/posts/fowsniff/</guid>
       <description></description>
       
     </item>

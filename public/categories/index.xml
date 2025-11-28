@@ -9,7 +9,97 @@
     <managingEditor>duncanirungu@proton.me (Duncan Irungu)</managingEditor>
     <webMaster>duncanirungu@proton.me (Duncan Irungu)</webMaster>
     <copyright>© 2025 Duncan Irungu</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Aug 2025 01:09:33 +0300</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Dorking</title>
+      <link>http://localhost:1313/categories/google-dorking/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/google-dorking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hash Cracking</title>
+      <link>http://localhost:1313/categories/hash-cracking/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/hash-cracking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IMAP</title>
+      <link>http://localhost:1313/categories/imap/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/imap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NMAP</title>
+      <link>http://localhost:1313/categories/nmap/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/nmap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OSINT</title>
+      <link>http://localhost:1313/categories/osint/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/osint/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>POP3</title>
+      <link>http://localhost:1313/categories/pop3/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/pop3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SSH</title>
+      <link>http://localhost:1313/categories/ssh/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/ssh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>THM</title>
+      <link>http://localhost:1313/categories/thm/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/thm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TryHackMe</title>
+      <link>http://localhost:1313/categories/tryhackme/</link>
+      <pubDate>Fri, 22 Aug 2025 01:09:33 +0300</pubDate>
+      <author>duncanirungu@proton.me (Duncan Irungu)</author>
+      <guid>http://localhost:1313/categories/tryhackme/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
